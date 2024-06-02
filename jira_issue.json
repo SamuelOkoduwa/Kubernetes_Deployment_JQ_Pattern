@@ -1,0 +1,21 @@
+{
+  "id": "10002",
+  "key": "SAMPLE-1",
+  "fields": {
+    "subtasks": [
+      {
+        "id": "10003",
+        "key": "SAMPLE-2"
+      },
+      {
+        "id": "10004",
+        "key": "SAMPLE-3"
+      },
+      {
+        "id": "10005",
+        "key": "SAMPLE-4"
+      }
+    ]
+  }
+}
+
