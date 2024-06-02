@@ -1,0 +1,1 @@
+# Kubernetes_Deployment_JQ_Pattern
